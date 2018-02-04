@@ -1,0 +1,29 @@
+{
+   "name": "ng5-spotify",
+   "version": "1.0.0",
+   "description": "Proyecto en Angular 5 que consume el API de Spotify",
+   "main": "index.js",
+   "scripts": {
+      "start": "node index.js"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/MarcioMatteucci/ng5-spotify.git"
+   },
+   "keywords": [
+      "Angular",
+      "Spotify",
+      "Node"
+   ],
+   "author": "Marcio Matteucci",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/MarcioMatteucci/ng5-spotify/issues"
+   },
+   "homepage": "https://github.com/MarcioMatteucci/ng5-spotify#readme",
+   "dependencies": {
+      "cors": "^2.8.4",
+      "express": "^4.16.0",
+      "request": "^2.83.0"
+   }
+}
